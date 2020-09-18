@@ -1,5 +1,7 @@
 package br.com.house.digital
 
+import br.com.house.digital.exercicio1.Pessoa
+
 fun main() {
     val pessoa1 = Pessoa("Paulo", 123123)
     val pessoa2 = Pessoa("Flávio", 123123)
