@@ -1,4 +1,4 @@
-package br.com.house.digital
+package br.com.house.digital.exercicio1
 
 import br.com.house.digital.exercicio1.Pessoa
 
